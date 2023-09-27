@@ -1,4 +1,4 @@
-# Tech-Interview Questions for Backend
+# tech-interview-questions Questions for Backend
 
 > Since 2023. 05. 10	by Jay Lee
 
@@ -8,19 +8,19 @@
 
 * [About](#about)
 
-* [Operating System](https://github.com/jayl2sw/tech-interview/blob/master/os/README.md)
+* [Operating System](https://github.com/jayl2kor/tech-interview-questions/blob/master/os/README.md)
 
-* [Network](https://github.com/jayl2sw/tech-interview/blob/master/network/README.md)
+* [Network](https://github.com/jayl2kor/tech-interview-questions/blob/master/network/README.md)
 
-* [Database](https://github.com/jayl2sw/tech-interview/blob/database/spring/README.md)
+* [Database](https://github.com/jayl2kor/tech-interview-questions/blob/database/spring/README.md)
 
-* [Spring](https://github.com/jayl2sw/tech-interview/blob/master/spring/README.md)
+* [Spring](https://github.com/jayl2kor/tech-interview-questions/blob/master/spring/README.md)
 
-* [Algorithm](https://github.com/jayl2sw/tech-interview/blob/master/algorithm/README.md)
+* [Algorithm](https://github.com/jayl2kor/tech-interview-questions/blob/master/algorithm/README.md)
 
-* [Short Coding](https://github.com/jayl2sw/tech-interview/blob/master/short_coding/README.md)
+* [Short Coding](https://github.com/jayl2kor/tech-interview-questions/blob/master/short_coding/README.md)
 
-* [Etc](https://github.com/jayl2sw/tech-interview/blob/master/etc/README.md)
+* [Etc](https://github.com/jayl2kor/tech-interview-questions/blob/master/etc/README.md)
 
   
 
@@ -47,7 +47,7 @@
 
 </br>
 
-## :four_leaf_clover: Operating System [Link](https://github.com/jayl2sw/tech-interview/blob/master/os/README.md)
+## :four_leaf_clover: Operating System [Link](https://github.com/jayl2kor/tech-interview-questions/blob/master/os/README.md)
 
 1. 프로세스 & 스레드 🔴
 
@@ -67,7 +67,7 @@
 
 </br>
 
-## :four_leaf_clover: Database [Link](https://github.com/jayl2sw/tech-interview/blob/master/database/README.md)
+## :four_leaf_clover: Database [Link](https://github.com/jayl2kor/tech-interview-questions/blob/master/database/README.md)
 
 1. RDB & NoSQL 🔴
 
@@ -91,7 +91,7 @@
 </br>
 
 
-## :four_leaf_clover: Network [Link](https://github.com/jayl2sw/tech-interview/blob/master/network/README.md)
+## :four_leaf_clover: Network [Link](https://github.com/jayl2kor/tech-interview-questions/blob/master/network/README.md)
 
 0. www.naver.com 🔴
 
@@ -121,7 +121,7 @@
 </br>
 
 
-## :four_leaf_clover: Java & Spring [Link](https://github.com/jayl2sw/tech-interview/blob/master/spring/README.md)
+## :four_leaf_clover: Java & Spring [Link](https://github.com/jayl2kor/tech-interview-questions/blob/master/spring/README.md)
 
 1. JVM (구조, 컴파일) 🔴
 
@@ -157,7 +157,7 @@
 </br>
 
 
-## :four_leaf_clover: Etc [Link](https://github.com/jayl2sw/tech-interview/blob/master/etc/README.md)
+## :four_leaf_clover: Etc [Link](https://github.com/jayl2kor/tech-interview-questions/blob/master/etc/README.md)
 
 1. 객체지향 🔴
 
@@ -183,13 +183,13 @@ Jayl2kor
 
 ## Reference
 
-[VSFe](https://github.com/VSFe/Tech-Interview)
+[VSFe](https://github.com/VSFe/tech-interview)
 
 [goodGid](https://goodgid.github.io/Prepared-for-Computer-Science/)
 
 [JaeYeopHan](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
 
-[WooVictory](https://github.com/WooVictory/Ready-For-Tech-Interview)
+[WooVictory](https://github.com/WooVictory/Ready-For-tech-interview-questions)
 
 ---
 
