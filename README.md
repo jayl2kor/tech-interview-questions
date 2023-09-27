@@ -12,7 +12,7 @@
 
 * [Network](https://github.com/jayl2kor/tech-interview-questions/blob/master/network/README.md)
 
-* [Database](https://github.com/jayl2kor/tech-interview-questions/blob/database/spring/README.md)
+* [Database](https://github.com/jayl2kor/tech-interview-questions/blob/master/database/README.md)
 
 * [Spring](https://github.com/jayl2kor/tech-interview-questions/blob/master/spring/README.md)
 
